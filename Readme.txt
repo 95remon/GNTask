@@ -4,7 +4,7 @@ Please follow the following steps to run this Project :
 |
 |--Step 1 : Make sure that you already installed DevExpress V21.2 Framework.
 |
-|--Step 2 : Create your own Datebase and run (GNProducts.sql) script file.
+|--Step 2 : Create your own Database and run (GNProducts.sql) script file.
 |
 |--Step 3 : Open the Solution File (GNProducts.sln).
 |
